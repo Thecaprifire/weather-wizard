@@ -128,3 +128,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Ignore Mac system files
+.DS_store
+
+# Ignore files related to API keys
+.env
