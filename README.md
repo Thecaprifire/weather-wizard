@@ -6,7 +6,7 @@ The Weather Wizard dashboard is a web application that provides users with curre
 ## 🔧 Usage
 Simply open the weather dashboard in your browser and search for a city to view its current and future weather conditions. The dashboard will also store your search history using localStorage.
 
-[&rarr; This is the link to the website](https://janiandaluz.github.io/weather-wizard/)
+[&rarr; This is the link to the website](https://thecaprifire.github.io/weather-wizard/)
 
 [&rarr; This is the link to the GitHub repository](https://github.com/janiandaluz/weather-wizard)
 
